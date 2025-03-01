@@ -2,4 +2,4 @@ This is based on Peter Shirley, Trevor Davi Black, and Steve Hollasch's [Ray Tra
 
 # Final Render
 
-![Final render with a big matte, glass, and metal sphere, and small randomly textured spheres scattered about](FinalRender.ppm)
+![Final render with a big matte, glass, and metal sphere, and small randomly textured spheres scattered about](FinalRender.png "Final Render")
