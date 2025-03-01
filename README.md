@@ -1,0 +1,1 @@
+This is based on Peter Shirley, Trevor Davi Black, and Steve Hollasch's [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
